@@ -1,0 +1,16 @@
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\bin\Debug\net8.0-windows\Client1.exe
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\bin\Debug\net8.0-windows\Client1.deps.json
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\bin\Debug\net8.0-windows\Client1.runtimeconfig.json
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\bin\Debug\net8.0-windows\Client1.dll
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\bin\Debug\net8.0-windows\Client1.pdb
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\Client1.Form1.resources
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\Client1.csproj.GenerateResource.cache
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\Client1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\Client1.AssemblyInfoInputs.cache
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\Client1.AssemblyInfo.cs
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\Client1.csproj.CoreCompileInputs.cache
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\Client1.dll
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\refint\Client1.dll
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\Client1.pdb
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\Client1.genruntimeconfig.cache
+C:\Users\Madusha\Documents\C#\Mindox\Client1\Client1\obj\Debug\net8.0-windows\ref\Client1.dll
